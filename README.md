@@ -2,6 +2,7 @@
 
 ## Descrição
 Repositório feito especificamente para a atividade extra da disciplina de Programação Orientada a Objetos do curso Tecnólogo em Análise e Desenvolvimento de Sistemas, no IFPI.
+As questões discursivas foram respondidas no próprio arquivo README.md. Já as questões práticas foram feitas usando .NET e C#.
 
 ## Respostas das questões propostas
 
