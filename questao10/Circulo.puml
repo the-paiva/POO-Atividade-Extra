@@ -1,0 +1,9 @@
+@startuml Circulo
+
+class Circulo {
+  + double Raio
+  + CalcularArea() : double
+  + CalcularPerimetro() : double
+}
+
+@enduml

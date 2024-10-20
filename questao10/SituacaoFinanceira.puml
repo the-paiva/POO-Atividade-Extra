@@ -1,0 +1,10 @@
+@startuml SituacaoFinanceira
+
+class SituacaoFinanceira{
+    + decimal ValorCreditos
+    + decimal ValorDebitos
+    + CalcularSaldo() : decimal
+    + RetornarEstadoDeSaldo() : string
+}
+
+@enduml
